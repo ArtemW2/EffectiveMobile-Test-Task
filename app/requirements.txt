@@ -1,0 +1,16 @@
+asgiref==3.11.0
+bcrypt==5.0.0
+Django==5.2.8
+django-silk==5.4.3
+djangorestframework==3.16.1
+dotenv==0.9.9
+ecdsa==0.19.1
+gprof2dot==2025.4.14
+psycopg2-binary==2.9.11
+pyasn1==0.6.1
+python-dotenv==1.2.1
+python-jose==3.5.0
+rsa==4.9.1
+six==1.17.0
+sqlparse==0.5.3
+tzdata==2025.2
