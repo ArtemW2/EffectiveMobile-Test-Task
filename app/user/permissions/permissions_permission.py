@@ -7,8 +7,6 @@ class RolePermission(GenericPermission):
             read_perm="CAN_READ_ROLES",
             create_perm="CAN_CREATE_ROLES",
             modify_perm="CAN_MODIFY_ROLE",
-            delete_all_perm="CAN_DELETE_ALL_ROLES",
-            delete_perm="CAN_DELETE_ROLE"
         )
 
 
@@ -18,8 +16,7 @@ class PermissionPermission(GenericPermission):
             read_perm="CAN_READ_PERMISSIONS",
             create_perm="CAN_CREATE_PERMISSIONS",
             modify_perm="CAN_MODIFY_PERMISSION",
-            delete_all_perm="CAN_DELETE_ALL_PERMISSIONS",
-            delete_perm="CAN_DELETE_PERMISSION"
+
         )
 
 

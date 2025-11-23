@@ -8,7 +8,6 @@ class TaskPermission(GenericPermission):
             read_perm="CAN_READ_TASK",
             create_perm="CAN_CREATE_TASKS",
             modify_perm="CAN_MODIFY_TASK",
-
         )
 
     
